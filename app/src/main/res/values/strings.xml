@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Limung</string>
+    <string name="tap">Ketuk-ketuk pohon buah warna kuning untuk mengambil buahnya ~</string>
+    <string name="tapTap">remas remas buah warna kuning untuk memerasnya, dan mengisi perasan ke gelas~</string>
+    <string name="tapTapTap">sentuh gelas isi cairan kuning untuk meminumnya ~</string>
+    <string name="tapTapTapTap">sentuh gelas bekas cairan kuning untuk membuat sari buah warna kuning lagi ~</string>
+    <string name="Pohon_lemon">Pohon buah warna kuning</string>
+    <string name="Buah_warna_kuning">Buah warna kuning</string>
+    <string name="Gelas_isi_cairan_kuning">Gelas berisi cairan kuning\n</string>
+    <string name="Gelas_bekas_cairan_kuning">Gelas bekas cairan kuning</string>
+    <string name="ada_kesalahan">Ada kesalahan</string>
+</resources>
